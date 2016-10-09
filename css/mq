@@ -1,0 +1,30 @@
+.recent-activity {
+  width: 50%;
+}
+
+.message-settings {
+  display: flex;
+}
+
+.message {
+  width: 50%;
+}
+
+.settings {
+  width: 50%;
+}
+
+.save-button,
+.cancel-button {
+  width: 45%;
+  display: inline;
+}
+
+.save-button {
+  margin: 20px 5px 10px 20px;
+}
+
+.cancel-button {
+  float: right;
+  margin: 20px 20px 10px 5px;
+}
